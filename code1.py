@@ -1,3 +1,4 @@
+#.
 def password_validator(password):
     min_length = 8
     str(min_length) == 8
